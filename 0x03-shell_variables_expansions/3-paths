@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "PATH"
+echo $PATH | tr “:” “\n” |root@9a9f4c319c59:/alx-system_engineering-devops/0x03-shell_variables_expansions# chmod u+x 3-paths
